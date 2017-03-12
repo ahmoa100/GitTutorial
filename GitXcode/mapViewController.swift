@@ -12,7 +12,7 @@ class mapViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("just a test afor the merge futere")
+        print("just a test for the merge futere")
 
         // Do any additional setup after loading the view.
     }
